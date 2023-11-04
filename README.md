@@ -11,6 +11,9 @@ Provided credentials are not usable as
 Upon using the provided credentials, there is a verification step via email which cannot be completed.
 
 Flow:
+✅ Open browser
+✅ Navigate to login page
+✅ Log in to specified acount
 "Me" >>>
 "View Profile" >>>
 "
